@@ -13,8 +13,8 @@ Users will be able to log in and sign up for a free account. Once an account has
 
 2. `House Limit` When a hosue reaches capacity, the bank begins. If there are 12 people in one house limit, then a user gets assigned a random number from 1-12. 
 
-3. `Monthly Minimum` Every month the user has to put in the minimum amount due. ex. 50 month
+3. `Monthly Minimum` Every month the user has to put in the minimum amount due. ex) $50/month
 
-4. `Assignment` If they received number 3, then they pay $50 for the entire year but on the third month of the year, they recieve $50 x 12
+4. `Assignment` If they are assigned the 3rd number, then they pay $50 for the entire year but on the third month of the year, they recieve $50 x 12. 
 
-5. `Non-payment` If users don't pay thier monthly due, then the app kicks them out of the house scorebaord, chat, bank, etc. 
+5. `Non-payment` If users don't pay their monthly due, then the app kicks them out of the house scoreboard, chat, bank, etc. 
