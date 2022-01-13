@@ -1,6 +1,5 @@
 # Mutual Aid
 
-<img src = "#" > 
 
 ## Summary of Application
 Mutual Aid is a fullstack app designed to help communities invest in one another and build communal wealth. It does not try to solve community issues, but rather provides tools to already-existing solutions that came from the communities. 
